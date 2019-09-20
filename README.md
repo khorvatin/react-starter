@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+I created this project as a starting point for the STEALTHbits front end developer project.
+More instructions are in a word document that you have received in an email. If you don't have an email from me, then 
+this project is pretty useless :)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
